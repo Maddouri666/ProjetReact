@@ -1,0 +1,17 @@
+.home{
+background-color: aqua;
+padding: 20px;
+}
+.icon{
+    height:50px;
+    width: 60px;
+}
+.youtube{
+    color: red;
+}
+.twitter{
+    color:blueviolet;
+}
+.cart{
+    color:orange;
+}

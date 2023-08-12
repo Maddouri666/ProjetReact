@@ -1,0 +1,46 @@
+.technoAdd{
+    background-color:brown;
+    padding: 20px;
+}
+input[type=text]{
+ width: 100%;  
+ margin: 8px 0; 
+ border: 1px solid aqua;
+ border-radius: 4px;
+font-size: x-large;
+
+}
+textarea{
+display: inline-block;
+box-sizing: border-box;
+width:100%;
+height: 150px;
+border-radius: 4px;
+margin: 8px 0;
+border: 1px solid aqua;
+
+}
+input[type="submit"]{
+    background-color: blueviolet;
+    color:white;
+    width: 100%;
+    cursor: pointer;
+    padding: 14px 20px;
+    border:none;
+    margin: 8px 0;
+    font-size: xx-large;
+}
+select{
+    background-color: rgb(176, 164, 188);
+    color:rgb(20, 19, 19);
+    width: 100%;
+    padding: 14px 20px;
+    border:none;
+    margin: 8px 0;
+    font-size: medium;
+
+}
+label{
+    font-size: 1.2em;
+    font-style: initial;
+}

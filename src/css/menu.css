@@ -1,0 +1,23 @@
+.menu{
+font-size: 1.4em; 
+background-color: lightslategrey;
+padding: 10px;
+
+}
+ul{
+list-style:none;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+a {
+color:white;
+text-decoration: none;
+}
+ a:hover{
+background-color: forestgreen;   
+}
+.activelink{
+    color: blue;
+    font-weight: bold;
+}
